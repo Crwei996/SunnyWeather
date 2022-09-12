@@ -3,8 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/caiyuntianqi/W/SunnyWeather/app/src/main/res/layout/activity_main.xml" value="0.16259057971014493" />
-        <entry key="..\:/caiyuntianqi/W/SunnyWeather/app/src/main/res/layout/activity_weather.xml" value="0.22644927536231885" />
+        <entry key="..\:/caiyuntianqi/W/SunnyWeather/app/src/main/res/drawable/ic_home.xml" value="0.1755" />
+        <entry key="..\:/caiyuntianqi/W/SunnyWeather/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1755" />
+        <entry key="..\:/caiyuntianqi/W/SunnyWeather/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/caiyuntianqi/W/SunnyWeather/app/src/main/res/layout/activity_weather.xml" value="0.1" />
         <entry key="..\:/caiyuntianqi/W/SunnyWeather/app/src/main/res/layout/forecast.xml" value="0.25364583333333335" />
         <entry key="..\:/caiyuntianqi/W/SunnyWeather/app/src/main/res/layout/forecast_item.xml" value="0.2526041666666667" />
         <entry key="..\:/caiyuntianqi/W/SunnyWeather/app/src/main/res/layout/fragment_blank.xml" value="0.22644927536231885" />
